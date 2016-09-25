@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SaveAndLoad_Config>
+	<file_system />
+	<input />
+	<window />
+	<textures />
+	<audio />
+	<scene />
+	<renderer>
+		<camera camera_x="355" camera_y="0" />
+	</renderer>
+</SaveAndLoad_Config>
